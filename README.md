@@ -9,7 +9,6 @@
 
 ## วิธีใช้งาน
 1. ติดตั้ง [python](https://apps.microsoft.com/detail/9pnrbtzxmb4z?ocid=webpdpshare)
-2. ติดตั้ง [pip](https://apps.microsoft.com/detail/9pnrbtzxmb4z?ocid=webpdpshare)
-3. [ติดตั้ง](#ติดตั้ง)
-4. แตกไฟล์
-5. run main.py
+2. [ติดตั้ง](#ติดตั้ง)
+3. แตกไฟล์
+4. run main.py
